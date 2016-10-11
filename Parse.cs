@@ -287,7 +287,7 @@ namespace Expressao
 				
 				no = Expressao (); 
 				if (no != null)
-					noPai.Add (no); // expressa a direita do operador logico relaciona 
+					noPai.Add (no); // expressao a direita do operador logico relaciona 
 				else
 					EmiteErroSintaxe ("right expression not defined");
 				no = noPai;
