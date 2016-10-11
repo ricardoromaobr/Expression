@@ -1,0 +1,25 @@
+using System;
+
+namespace Expressao
+{
+	public enum MaquinaEstado
+	{
+		INICIO,
+		EM_ID,
+		EM_NUM_NEGATIVO,
+		EM_NUM_INTEIRO,
+		EM_NUM_DECIMAL,
+		EM_SIMBOLO,
+		EM_OP_REL_MAIOR,
+		EM_OP_REL_MENOR,
+		EM_OP_REL_MAIOR_QUE,
+		EM_OP_REL_MENOR_QUE,
+		EM_OP_REL_IGUAL,
+		EM_OP_MAT,
+		EM_OP_MAT_DIV,
+		EM_COMENTARIO,
+		EM_COMENTARIO2,
+		FEITO,
+		ERRO
+	}
+}
