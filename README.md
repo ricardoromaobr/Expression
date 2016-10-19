@@ -1,11 +1,13 @@
-# Expression
+Expression
+==========
 An expression library that solver math expression
 
 Just clone and compile the soluction and you will have a dll: **Expression.dll**
 
 :smiley:
 
-# Example
+Example
+-------
 
 ```cs
 var resolver = new Resolver("a * 2");
