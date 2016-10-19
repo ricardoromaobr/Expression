@@ -6,5 +6,5 @@ An expression library that solver math expression
 ```cs
 var resolver = new Resolver("a * 2");
 resolver ["a"] = 5; 
-var result = resolver.ResolverExpression ();
+var result = resolver.SolverExpression  ();
 ```
