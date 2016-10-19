@@ -3,4 +3,8 @@ An expression library that solver math expression
 
 # Example
 
-comming soon ...
+```cs
+var resolver = new Resolver("a * 2");
+resolver ["a"] = 5; 
+var result = resolver.ResolverExpression ();
+```
