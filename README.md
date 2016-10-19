@@ -8,6 +8,7 @@ Just clone and compile the soluction and you will have a dll: **Expression.dll**
 
 Example
 -------
+
 Simple expression
 
 ```cs
@@ -29,3 +30,29 @@ var result = resolver.SolverExpression ();
 // result will be  0 if false an 1 if true;  
 
 ```
+
+Key words
+---------
+
+log10 -
+
+log -
+
+log2 - 
+
+sin - 
+
+cos - 
+
+tan - 
+
+Constants 
+---------
+
+pi - PI constant
+e - 
+
+! - Factorial
+
+
+MORE TO COME!
