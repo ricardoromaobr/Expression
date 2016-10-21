@@ -61,10 +61,14 @@ e -  Neperian
 Operators
 ---------
 
-+  (Adition)
--  (subtration)
-* (multiplication)
+(+) (Adition)
+
+(-)  (subtration)
+
+(*) (multiplication)
+
 / (divide) 
+
 ! - Factorial
 
 
