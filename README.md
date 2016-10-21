@@ -31,9 +31,6 @@ var result = resolver.SolverExpression ();
 
 ```
 
-
-# exemplo 3 
-
 Key words
 ---------
 
@@ -49,12 +46,25 @@ cos -
 
 tan - 
 
+asin - 
+
+acos - 
+
+atan - 
+
 Constants 
 ---------
 
 pi - PI constant
-e - 
+e -  Neperian
 
+Operators
+---------
+
++  (Adition)
+-  (subtration)
+* (multiplication)
+/ (divide) 
 ! - Factorial
 
 
