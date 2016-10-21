@@ -70,6 +70,3 @@ Operators
 / (divide) 
 
 ! - Factorial
-
-
-MORE TO COME!
