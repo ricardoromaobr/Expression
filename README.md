@@ -21,13 +21,13 @@ Logical expression
 
 ```cs
 
-var resolver = new Resolver ("a * 2 > b - 2 (b * a)"); 
+var resolver = new Resolver ("a * 2 > b - 2 + (b * a)"); 
 resolver ["a"] = 5; 
 resolver ["b"] = 10;
 
 var result = resolver.SolverExpression (); 
 
-// result will be  0 if false an 1 if true;  
+// result will be  0 if false or 1 if true;  
 
 ```
 
